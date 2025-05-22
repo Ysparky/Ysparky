@@ -33,5 +33,5 @@ App de delivery en Flutter. Backend con Nest.js y PostgreSQL. Incluye chat en ti
 ### 📫 Contáctame
 
 - Email: [jos.caldas.27@gmail.com](mailto:jos.caldas.27@gmail.com)  
-- LinkedIn: [linkedin.com/in/jose-caldas](https://linkedin.com/in/jose-caldas)
+- LinkedIn: [https://www.linkedin.com/in/jose-c-844251110](https://www.linkedin.com/in/jose-c-844251110)
 
